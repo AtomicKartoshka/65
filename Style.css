@@ -1,0 +1,48 @@
+.footer-columns {
+    display: flex;
+}
+
+
+.footer-column {
+    flex: 50%;
+    margin: 20px;
+}
+
+
+header, footer {
+    background-color: rgb(175, 39, 39);
+    padding: 10px;
+}
+
+
+main {
+    padding: 10px;
+    background-color: rgb(122, 12, 12);
+}
+
+
+.post {
+    background-color: rgb(45, 132, 173);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+
+.post img {
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
